@@ -1,0 +1,8 @@
+{
+  "name": "asdasd",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "putout": "^35.1.0"
+  }
+}
