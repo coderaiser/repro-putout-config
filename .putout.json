@@ -1,6 +1,6 @@
 {
   "ignore": [
       "**/src/test",
-      "**/__tests_"
+      "**/__tests__"
   ]
 }
